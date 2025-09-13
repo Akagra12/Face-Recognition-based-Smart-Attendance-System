@@ -1,0 +1,15 @@
+pip install cmake dlib face_recognition
+
+mannul way=> cmake-4.1.1-windows-x86_64.msi
+     where cmake
+     C:\Program Files\CMake\bin\cmake.exe
+     cmake --version
+
+
+(Visual Studio with C++ build tools )  to compile dlib on Windows.
+    (https://visualstudio.microsoft.com/visual-cpp-build-tools/)
+    During installation:
+    
+    Select "Desktop development with C++" workload.
+    Click Instal
+pip install dlib face_recognition
